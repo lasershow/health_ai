@@ -1,24 +1,17 @@
 # README
+## リーンキャンバス
+### 課題
+- 予防医療の大切さを知ることができない
+- どのように予防すれば良いか分からない。
+- 予防を行うためのお金がない
+### ターゲット
+予防医療に興味がある人
+予防医療を継続的に行いたい人
+予防医療にどのくらい費用が必要か算出したい人
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`アーリー ターゲット`
+健康に気を使い始めた、中年男性（家族持ち）
+### 独自の価値観
+### チャネル
+### コスト
+### 
